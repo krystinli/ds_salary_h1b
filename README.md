@@ -13,7 +13,9 @@ Python Web Scraping Using BeautifulSoup [Tutorial :link:](https://www.dataquest.
 
 ### html_tags
 Tags have commonly used names that depend on their position in relation to other tags:
-- `child` — a child is a tag inside another tag. So the two p tags above are both children of the body tag:
+- `child` — a child is a tag inside another tag. So the two p tags above are both children of the body tag;
+- `parent` — a parent is the tag another tag is inside. Above, the html tag is the parent of the body tag;
+- `sibiling` — a sibiling is a tag that is nested inside the same parent as another tag. For example, head and body are siblings, since they’re both inside html. Both p tags are siblings, since they’re both inside body;
 ```html
 <html>
     <head>
