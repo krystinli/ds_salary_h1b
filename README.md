@@ -16,15 +16,18 @@ Tags have commonly used names that depend on their position in relation to other
 - `child` — a child is a tag inside another tag. So the two p tags above are both children of the body tag:
 ```html
 <html>
-<head>
-</head>
-<body>
-<p>
-Here's a paragraph of text!
-</p>
-<p>
-Here's a second paragraph of text!
-</p>
-</body>
+    <head>
+    </head>
+  
+    <body>
+        <p>
+        Here's a paragraph of text!
+        </p>
+      
+        <p>
+        Here's a second paragraph of text!
+        </p>
+    </body>
+  
 </html>
 ```
