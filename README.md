@@ -1,5 +1,5 @@
-## ds_salary_h1b
-Inspired by this article "How Much Do Data Scientists Make?" on Medium, I decided to take the same data source and do some analysis to answer some questions I'm curious about. The source is H1B data published by US government and numbers are base salaries reported in H1b application. 
+## Data_Scientist_Salary
+Inspired by this article "[How Much Do Data Scientists Make?](https://towardsdatascience.com/how-much-do-data-scientists-make-cbd7ec2b458)" on Medium, I decided to take the same data source and do some analysis to answer additional questions I'm curious about. The source is H1B data published by US government and numbers are base salaries reported in H1b application. 
 
 ### Topics
 - Data Science year-to-year trend
