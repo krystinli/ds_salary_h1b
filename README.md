@@ -12,6 +12,9 @@ Inspired by this article "[How Much Do Data Scientists Make?](https://towardsdat
 - [01_data_jobs_categorization.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - a quick look at all data related job families
 - [02_FANNY_club.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - a deeper look into FANNY club companies
 
+## Interesting_Findings
+
+
 
 
 
