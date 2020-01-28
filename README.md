@@ -4,8 +4,7 @@ Inspired by this article "[How Much Do Data Scientists Make?](https://towardsdat
 ![data_img](https://news.harvard.edu/wp-content/uploads/2018/06/hdsi.jpg?w=1600&h=900&crop=1)
 
 ### Topics
-- Data Science year-to-year trend
-- A comparison between different data job families 
+- Data Science Salaries by Job Families (DS, DA, DE, ML) 
 - The story of "FANNG"
 
 ### Notebooks
