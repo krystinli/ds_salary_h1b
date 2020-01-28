@@ -10,7 +10,7 @@ Inspired by this article "[How Much Do Data Scientists Make?](https://towardsdat
 
 ### Notebooks
 - [00_data_check.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/00_data_check.ipynb) - initial data cleanning
-- [01_data_all_jobs.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/00_data_check.ipynb) - a quick look at other data related job families
+- [01_data_jobs_categorization.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - a quick look at other data related job families
 
 
 
