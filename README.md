@@ -4,8 +4,8 @@ Inspired by this article "[How Much Do Data Scientists Make?](https://towardsdat
 ![data_img](https://news.harvard.edu/wp-content/uploads/2018/06/hdsi.jpg?w=1600&h=900&crop=1)
 
 ### Topics
-- 1) Snapshot: Data Science Salaries by Job Families (DS, DA, DE, ML) 
-- 2) The story of "FANNG"
+- Snapshot: Data Science Salaries by Job Families (DS, DA, DE, ML) 
+- The story of "FANNG"
 
 ### Notebooks
 - [00_data_check.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/00_data_check.ipynb) - initial data cleanning
