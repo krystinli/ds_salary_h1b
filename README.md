@@ -10,8 +10,9 @@ Inspired by this article "[How Much Do Data Scientists Make?](https://towardsdat
 ### Notebooks
 - [00_data_check.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/00_data_check.ipynb) - initial data cleanning
 - [01_data_jobs_categorization.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - include all data related job families
-- [02_data_jobs_categorization.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - include all data related job families with better separation
-- [03_FANNY_club.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - a deeper look into FANNY club companies
+- [02_data_jobs_categorization.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - combine `01` and `02` to produce the clean dataset `data.csv`
+- [03_snapshot.ipynb]() A snapshot of the current job market and 5 years trend
+- [03_FANNY_club.ipynb](https://github.com/krystinli/ds_salary_h1b/blob/master/01_data_jobs_categorization.ipynb) - 
 
 ### Interesting_Findings
 
